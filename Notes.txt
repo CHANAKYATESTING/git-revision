@@ -1,0 +1,6 @@
+Initializing git Folder
+open command prompt
+git init
+
+to check the git status
+Cmd from the git folder>git status
